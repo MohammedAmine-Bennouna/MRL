@@ -1,0 +1,12 @@
+numpy
+pandas
+gym==0.7.4
+jupyter
+pygame
+matplotlib
+scipy
+scikit-learn
+graphviz
+ipylab
+plotly
+tqdm
